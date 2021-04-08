@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1160"
+   LastUpgradeVersion = "1200"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D62A2E422504ED8100E6A047"
-               BuildableName = "Realtime Object Detection.app"
-               BlueprintName = "Realtime Object Detection"
-               ReferencedContainer = "container:Realtime Object Detection.xcodeproj">
+               BlueprintIdentifier = "D6131DBF24CD6E530035BAC1"
+               BuildableName = "Cardgame.app"
+               BlueprintName = "Cardgame"
+               ReferencedContainer = "container:Card game .xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,7 +26,8 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      region = "NP">
       <Testables>
       </Testables>
    </TestAction>
@@ -44,10 +45,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D62A2E422504ED8100E6A047"
-            BuildableName = "Realtime Object Detection.app"
-            BlueprintName = "Realtime Object Detection"
-            ReferencedContainer = "container:Realtime Object Detection.xcodeproj">
+            BlueprintIdentifier = "D6131DBF24CD6E530035BAC1"
+            BuildableName = "Cardgame.app"
+            BlueprintName = "Cardgame"
+            ReferencedContainer = "container:Card game .xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,10 +62,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D62A2E422504ED8100E6A047"
-            BuildableName = "Realtime Object Detection.app"
-            BlueprintName = "Realtime Object Detection"
-            ReferencedContainer = "container:Realtime Object Detection.xcodeproj">
+            BlueprintIdentifier = "D6131DBF24CD6E530035BAC1"
+            BuildableName = "Cardgame.app"
+            BlueprintName = "Cardgame"
+            ReferencedContainer = "container:Card game .xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
